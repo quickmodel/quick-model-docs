@@ -1,0 +1,8 @@
+{
+  "label": "Godot",
+  "position": 0,
+  "link": {
+    "type": "generated-index",
+    "description": "Documentation for Godot Engine version of the plugin."
+  }
+}
