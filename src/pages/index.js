@@ -17,7 +17,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="https://goldenduckgames.itch.io/test-project">
+            to="https://quickmodel.itch.io/quick-model-godot">
             Itch.io
           </Link>
         </div>

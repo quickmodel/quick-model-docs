@@ -84,7 +84,7 @@ const config = {
             items: [
               {
                 label: 'Itch.io',
-                href: 'https://itch.io',
+                href: 'https://quickmodel.itch.io/quick-model-godot',
               },
             ],
           },
