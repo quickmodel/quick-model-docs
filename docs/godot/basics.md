@@ -22,3 +22,6 @@ Drag and drop a model from Quick Model dock to scene or file system to add it to
 ## How to remove a model from the project
 Open project manager, right click on the model you want to remove and click remove.
 You can also select multiple models with left click and then right click to open context menu to remove all.
+
+## Why my model wont load when I drag it into the scene?
+Sometimes Godot won't properly reimport all new files. To trigger reimporting you can click on a another window and then back to Godot.
