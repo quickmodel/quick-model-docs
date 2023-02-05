@@ -7,10 +7,10 @@ sidebar_position: 2
 ![Libraries and categories](./img/librariesAndCategories.png)
 
 ## How to add library
-Click +-button next to the library selector, type a name for the library and click **Create**.
+Click the +-button next to the library selector, type a name for the library and click **Create**.
 
 ## How to add category
-Click +-button next to the category selector, type a name for the category and click **Create**.
+Click the +-button next to the category selector, type a name for the category and click **Create**.
 
 ## How to edit/remove library/category
 Click the pencil icon (to edit) or the trash can icon (to remove) a library or category.

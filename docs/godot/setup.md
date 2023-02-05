@@ -10,8 +10,8 @@ Installation instructions for plugins can be found in [Godot's documentation](ht
 ## How to add license key
 ![Add license key in editor settings](./img/licenseKey.png)
 
-Open Godot's **Editor Settings**. The Quick Model settings are located in the **Quick Model** tab in the left column. There copy your Itch.io download key to **Licence Key** field. (Your download key is the last part in the download url.)
-The download key can be extracted from download url provided by Itch.io. For example:
+Open Godot's **Editor Settings**. The Quick Model settings are located in the **Quick Model** tab in the left column. There, copy your Itch.io download key to the **Licence Key** field. (Your download key is the last part in the download URL.)
+The download key can be extracted from the download URL provided by Itch.io. For example:
 https://quickmodel.itch.io/quick-model-godot/download/abc123
 
 The download key would be: abc123
@@ -20,5 +20,5 @@ Note: If assets have not loaded when you set the key, you need to reload assets 
 
 ## How to change the location of the model files in the project
 
-Open **project settings**. Click on **Quick Model** tab in the left column and change model files location to your liking. By default the models are located in the **quick_model** folder.
-Note: In Godot 4 make sure you have advanced settings toggled on.
+Open **project settings**. Click on the **Quick Model** tab in the left column and change the model files location to your liking. By default, the models are located in the **quick_model** folder.
+Note: In Godot 4, make sure you have advanced settings toggled on.

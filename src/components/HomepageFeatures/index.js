@@ -7,7 +7,7 @@ const FeatureList = [
     title: '3000+ Model Archive',
     description: (
       <>
-        Prototype your game with library of over 3000 pre-made 3D models. Just drag & drop models in to the scene.
+        Prototype your game, with a library of over 3000 pre-made 3D models. Just drag & drop models into the scene.
       </>
     ),
   },
@@ -15,7 +15,7 @@ const FeatureList = [
     title: 'Custom Libraries',
     description: (
       <>
-        Create your very own model libraries. Set metadata like name, categories, tags etc. to make your models easier to find.
+        Create your very own model libraries. Set metadata like name, categories, tags, etc. to make your models easier to find.
       </>
     ),
   },
@@ -23,7 +23,7 @@ const FeatureList = [
     title: 'Git Integration',
     description: (
       <>
-        Share your model libraries with your team or with the whole world. Git version control system easily integrates with the plugin.
+        Share your model libraries with your team or with the whole world. The Git version control system easily integrates with the plugin.
       </>
     ),
   },

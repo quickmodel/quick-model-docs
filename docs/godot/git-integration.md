@@ -14,8 +14,8 @@ https://git-scm.com/).
 git --version
 ```
 
-If you get command not recognized error, you need to add Git to path.
-Find more information how to do that here:
+If you get a command not recognized error, you need to add Git to the path.
+Find more information on how to do that here:
 https://www.delftstack.com/howto/git/add-git-to-path-on-windows/
 
 3. Click **Git version control button** ![Git button](./img/gitButton.png) to open context menu, then click on **Setup git**.
