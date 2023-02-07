@@ -28,3 +28,7 @@ https://www.delftstack.com/howto/git/add-git-to-path-on-windows/
 - Copy SSH-repository url from Github, Gitlab, etc.
 - Set branch name
 5. Click on OK.
+
+## I'm getting "Host key verification failed" error
+See this Stackoverflow answer on how to fix it.
+https://stackoverflow.com/questions/13363553/git-error-host-key-verification-failed-when-connecting-to-remote-repository
