@@ -18,6 +18,12 @@ The download key would be: abc123
 
 Note: If assets have not loaded when you set the key, you need to reload assets by clicking Reload -> Force reload assets.
 
+## How to get download URL from Itch.io
+![Get the download url](./img/downloadUrl.png)
+
+1. Open your library.
+2. Click on the download-button and copy the url from your browser.
+
 ## How to change the location of the model files in the project
 
 Open **project settings**. Click on the **Quick Model** tab in the left column and change the model files location to your liking. By default, the models are located in the **quick_model** folder.
