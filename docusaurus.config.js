@@ -56,7 +56,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'godot/setup',
+            docId: 'unity/setup',
             position: 'left',
             label: 'Documentation',
           },
@@ -73,6 +73,10 @@ const config = {
           {
             title: 'Docs',
             items: [
+              {
+                label: 'Unity-addon',
+                to: '/docs/category/unity',
+              },
               {
                 label: 'Godot-addon',
                 to: '/docs/category/godot',

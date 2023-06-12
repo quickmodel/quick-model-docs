@@ -2,9 +2,9 @@
 sidebar_position: 3
 ---
 
-# Git integration
+# Git Integration
 
-## How to setup git integration
+## How To Setup Git Integration
 
 1. First you need to install the latest Git version control system from [Gits official website](
 https://git-scm.com/).
@@ -29,6 +29,6 @@ https://www.delftstack.com/howto/git/add-git-to-path-on-windows/
 - Set branch name
 5. Click on OK.
 
-## I'm getting "Host key verification failed" error
+## I'm Getting "Host key verification failed" Error
 See this Stackoverflow answer on how to fix it.
 https://stackoverflow.com/questions/13363553/git-error-host-key-verification-failed-when-connecting-to-remote-repository
