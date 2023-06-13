@@ -18,7 +18,7 @@ If you get a command not recognized error, you need to add Git to the path.
 Find more information on how to do that here:
 https://www.delftstack.com/howto/git/add-git-to-path-on-windows/
 
-3. Click **Git version control button** ![Git button](./img/gitButton.png) to open context menu, then click on **Setup git**.
+3. Click **Git version control button** ![Git button](./img/gitButton.png) to open context menu, then click on **Setup Git**.
 
 4. New popup should now open:
 
