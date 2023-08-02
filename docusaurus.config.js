@@ -36,11 +36,10 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/quickmodel/quick-model-docs/tree/main/',
         },
+        blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -53,6 +52,10 @@ const config = {
     ({
       navbar: {
         title: 'Quick Model',
+        logo: {
+          alt: 'Quick Model Logo',
+          src: 'img/logo.png',
+        },
         items: [
           {
             type: 'doc',
