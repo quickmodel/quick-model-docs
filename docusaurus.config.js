@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Quick Model',
   tagline: '3D model library addon',
-  url: 'https://quickmodel.github.io',
-  baseUrl: '/quick-model-docs/',
+  url: 'https://quickmodel.alpbyte.com',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
