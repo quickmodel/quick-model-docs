@@ -22,4 +22,4 @@ Note: You cannot edit or remove pre-made Low poly library or it's categories.
 Open the **Project Manager** by clicking the cube icon and click **Copy all licenses to the clipboard**.
 
 ## How To Update the Model Metadata in a Project if It Has Been Changed on the Library
-right-click a model and select **Update data in the project** on the context menu.
+Right-click a model and select **Update data in the project** on the context menu.

@@ -102,6 +102,10 @@ const config = {
                 label: 'GitHub',
                 href: 'https://github.com/quickmodel/quick-model-docs',
               },
+              {
+                label: 'Alpbyte',
+                href: 'https://alpbyte.com',
+              },
             ],
           },
         ],

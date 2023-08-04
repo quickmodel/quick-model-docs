@@ -13,7 +13,7 @@ Navigate to Window -> Quick Model -> Quick Model to open the editor window.
 Drag and drop a model from the file system to the Quick Model dock. Then add all information you want in the add new model window and click **Create**. Ensure you have filled all the required fields (marked with stars).
 
 ## How To Remove a Model From the Library
-right-click the model icon on the dock and click **Remove** on the context menu.
+Right-click the model icon on the dock and click **Remove** on the context menu.
 You can also select multiple models with a left-click and then right-click to open the context menu to remove all.
 Note: You cannot remove models from the pre-made "Low poly" library.
 
