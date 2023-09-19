@@ -15,6 +15,7 @@ Drag and drop a model from the file system to the Quick Model dock. Then add all
 ## Model Placement
 Click the model you want to place in the scene by pressing on the asset icon on Quick Model window. Press shift + WASD keys to rotate, G to toggle normal snapping or ESC-key to cancel if you decide to use another model.
 By holding CTRL you can activate incremental snapping. You can also drag and drop model to the scene. Grid snapping can also be enabled from the menu.
+If nothing happens when you press buttons make sure you have the scene view focused by clicking on it.
 
 ![Incremental snapping](./img/incrementalSnapping.png)
 
