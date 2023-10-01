@@ -6,11 +6,19 @@ sidebar_position: 1
 
 ## Getting Started
 Navigate to Window -> Quick Model -> Quick Model to open the editor window.
+Loading default assets from the API can take some time. Make sure you are connected to the internet.
 
 ## How To Add a Model to the Library
 ![Add model to library](./img/addModelToLibrary.png)
 
-Drag and drop a model from the file system to the Quick Model dock. Then add all information you want in the add new model window and click **Create**. Ensure you have filled all the required fields (marked with stars).
+Drag and drop a model from the file system (project window) to the Quick Model window.
+
+Then add all information you want in the add new model window and click **Create**. Ensure you have filled all the required fields (marked with stars).
+You can also skip this step by selecting library and category beforehand and then drop models while holding shift-key.
+
+## How To Preview a Model
+Double click on a model icon or right-click it and select **View**. Then you should see a window pop up with model preview and metadata associated with it.
+If model does not load, make sure you are connected to the internet and your application is not paused.
 
 ## Model Placement
 Click the model you want to place in the scene by pressing on the asset icon on Quick Model window. Press shift + WASD keys to rotate, U to toggle normal snapping or ESC-key to cancel if you decide to use another model.
