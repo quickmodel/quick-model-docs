@@ -16,3 +16,7 @@ Note: We highly recommend using stable versions of Unity for the best possible c
 Open Window -> Package Manager in Unity. You should now see all your assets.
 Select **My Assets** from packages dropdown.
 Type "Quick Model" in the search field to find this add-on and then install it.
+
+## How To Uninstall
+Open Window -> Package Manager, then select Quick Model from the list and click remove-button.
+If you want to remove all folders Quick Model has created, go to the folders section under basics of this documentation and remove these folders.
