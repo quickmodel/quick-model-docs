@@ -22,7 +22,7 @@ Drag and drop a model from the file system (project window) to the Quick Model w
 
 ![Create Model](./img/createModel.png)
 
-Then add all information you want in the add new model window and click **Create**. Ensure you have filled all the required fields (marked with stars). You can also skip this step by selecting library and category beforehand and then drop models while holding shift-key.
+Then add all information you want in the add new model window and click **Create**. Ensure you have filled all the required fields (marked with stars). You can also skip this step by selecting library and category beforehand and then drop models while holding ctrl-key.
 
 Note: It is highly recommended to use prefabs as they contain everything related to that model in one package. When you add a new model to a library, only the file you drop is copied over not textures and other files related to it.
 

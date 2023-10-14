@@ -15,7 +15,7 @@ const FeatureList = [
     title: 'Custom Libraries',
     description: (
       <>
-        Create your very own model libraries. Set metadata like name, categories, tags, etc. to make your models easier to find.
+        Create your very own 3D and 2D (supported in Unity-version) model libraries. Set metadata like name, categories, tags, etc. to make your models easier to find.
       </>
     ),
   },
@@ -29,7 +29,7 @@ const FeatureList = [
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({ Svg, title, description }) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center padding-horiz--md">
