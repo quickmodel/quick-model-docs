@@ -18,13 +18,13 @@ Quick Model automatically creates some folders to your Unity-project when you fi
 ## How To Add a Model to the Library
 ![Add model to library](./img/addModelToLibrary.png)
 
-Drag and drop a model from the file system (project window) to the Quick Model window.
+Drag and drop a model from file system or project window to the Quick Model window.
 
 ![Create Model](./img/createModel.png)
 
 Then add all information you want in the add new model window and click **Create**. Ensure you have filled all the required fields (marked with stars). You can also skip this step by selecting library and category beforehand and then drop models while holding ctrl-key.
 
-Note: It is highly recommended to use prefabs as they contain everything related to that model in one package. When you add a new model to a library, only the file you drop is copied over not textures and other files related to it.
+Note: It is highly recommended to use prefabs as they contain everything related to that model in one package. When you add a new model to a library, only the file you drop is copied over, not textures and other files related to it.
 
 ## How To Preview a Model
 Double click on a model icon or right-click it and select **View**. Then you should see a window pop up with model preview and metadata associated with it.
