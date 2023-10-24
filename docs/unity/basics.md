@@ -30,8 +30,9 @@ Note: It is highly recommended to use prefabs as they contain everything related
 Double click on a model icon or right-click it and select **View**. Then you should see a window pop up with model preview and metadata associated with it.
 If model does not load, make sure you are connected to the internet and your application is not paused.
 
-## Model Placement
-Click the model you want to place in the scene by pressing on the asset icon on Quick Model window. Press shift + WASD keys to rotate, U to toggle normal snapping or ESC-key to cancel if you decide to use another model.
+## Prefab/Model Placement
+First you can select the game object from the scene you want to place new models under, then click the model you want to place in the scene by clicking on the model preview icon on Quick Model window.
+Press shift + WASD keys to rotate, U to toggle normal snapping or ESC-key to cancel if you decide to use another model.
 You can also toggle ground snapping by pressing G-key.
 By holding CTRL you can activate incremental snapping. You can also drag and drop model to the scene. Grid snapping can also be enabled from the menu.
 If nothing happens when you press buttons make sure you have the scene view focused by clicking on it.
