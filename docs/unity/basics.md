@@ -10,9 +10,13 @@ Loading default assets from the API can take some time. Make sure you are connec
 
 ## Folders
 Quick Model automatically creates some folders to your Unity-project when you first install it. Here they are:
+
 **Assets/QuickModel** - These are the models you have added to your project from libraries.
+
 **Asset/QuickModelGlobal** - These are all of your models, you have added to a library.
+
 **Library/QuickModel** - Currently an icon cache and list of all default models in a json-format.
+
 **Temp/QuickModel** - a temp folder, for example preview models are stored here.
 
 ## How To Add a Model to the Library
