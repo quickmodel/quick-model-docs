@@ -5,7 +5,7 @@ sidebar_position: 1
 # Basics
 
 ## Getting Started
-Navigate to Window -> Quick Model -> Quick Model to open the editor window.
+Quick Model is automatically opened to the dock after installation.
 
 ## How To Add a Model to the Library
 ![Add model to library](./img/addModelToLibrary.png)
