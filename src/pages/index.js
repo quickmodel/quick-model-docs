@@ -35,6 +35,7 @@ export default function Home() {
       <HomepageHeader />
       <main>
         <HomepageFeatures />
+        <p className={styles.supText}>* 2D is supported in the Unity version of the plugin.</p>
       </main>
     </Layout>
   );

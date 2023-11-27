@@ -23,3 +23,8 @@
   align-items: center;
   justify-content: center;
 }
+
+.supText {
+  color: grey;
+  text-align: center;
+}

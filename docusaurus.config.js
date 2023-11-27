@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Quick Model',
-  tagline: 'Model library and placement tool for Unity and Godot',
+  tagline: 'Model library and level design tool for Unity and Godot',
   url: 'https://quickmodel.alpbyte.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
