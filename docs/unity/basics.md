@@ -34,9 +34,6 @@ Note: It is highly recommended to use prefabs as they contain everything related
 Double click on a model icon or right-click it and select **View**. Then you should see a window pop up with model preview and metadata associated with it.
 If model does not load, make sure you are connected to the internet and your application is not paused.
 
-## Dropping a Model to the Scene
-You can directly drop a model to the scene from the list by drag and drop. If you want a Texture2D instance instead of a prefab you can hold down CTRL-key when you start dragging a model.
-
 ## Prefab/Model Placement
 First you can select the game object from the scene you want to place new models under, then click the model you want to place in the scene by clicking on the model preview icon on Quick Model window.
 Press shift + WASD keys to rotate, U to toggle normal snapping or ESC-key to cancel if you decide to use another model.
@@ -54,7 +51,7 @@ Note: You cannot remove models from the pre-made "Low poly" library.
 ## How To Add a Model to the Project
 ![Add model to project](./img/addModelToProject.png)
 
-Drag and drop a model from Quick Model dock to the scene or file system to add it to the project.
+Drag and drop a model from Quick Model dock to the scene or file system to add it to the project. If you want a Texture2D instance instead of a prefab you can hold down CTRL-key when you start dragging a model.
 
 ## How To Remove a Model From the Project
 Open project manager, right-click on the model you want to remove and click **Remove**.
