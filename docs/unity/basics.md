@@ -46,7 +46,7 @@ If nothing happens when you press buttons make sure you have the scene view focu
 ## How To Remove a Model From the Library
 Right-click the model icon on the dock and click **Remove** on the context menu.
 You can also select multiple models with a left-click and then right-click to open the context menu to remove all.
-Note: You cannot remove models from the pre-made "Low poly" library.
+Note: You cannot remove models from the pre-made "Standard" library.
 
 ## How To Add a Model to the Project
 ![Add model to project](./img/addModelToProject.png)
