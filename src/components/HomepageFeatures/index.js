@@ -4,10 +4,10 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: '3000+ Models Included',
+    title: '3000+ Models Included*',
     description: (
       <>
-        Prototype your game, with a library of over 3000 pre-made 3D and 2D<sup>*</sup> models. Just drag & drop models into the scene.
+        Prototype your game, with a library of over 3000 pre-made 3D and 2D models. Just drag & drop models into the scene.
       </>
     ),
   },
@@ -15,7 +15,7 @@ const FeatureList = [
     title: 'Custom Libraries',
     description: (
       <>
-        Create your very own 3D and 2D<sup>*</sup> model libraries. Set metadata like name, categories, tags, etc. to make your models easier to find.
+        Create your very own asset libraries. Set metadata like name, categories, tags, etc. to make your assets easier to find.
       </>
     ),
   },

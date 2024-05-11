@@ -2,24 +2,29 @@
 sidebar_position: 2
 ---
 
-# Libraries and Categories
+# Libraries and categories
 
-![Libraries and Categories](./img/librariesAndCategories.png)
+![Libraries and categories](./img/librariesAndCategories.png)
 
-## How To Add Library
+## Add library
 Click the +-button next to the library selector, type a name for the library and click **Create**.
 
-## How To Add Category
+## Add category
 Click the +-button next to the category selector, type a name for the category and click **Create**.
 
-## How To Edit/Remove Library/Category
-Click the gear icon to edit or the trash can icon to remove a library or category.
-Note: You cannot edit or remove pre-made Low poly library or it's categories.
+## Edit library/category
+Click the gear icon to edit a library or category.
 
-## How To Copy All Licenses From Models in Project
+## Remove library/category
+Click the trash can icon to remove a library or category.
+
+## Copy licenses of all assets in a project
 ![Project Manager](./img/projectManager.png)
 
 Open the **Project Manager** by clicking the drawer icon and click **Copy all licenses to the clipboard**.
 
-## How To Update the Model Metadata in a Project if It Has Been Changed on the Library
-Right-click a model and select **Update data in the project** on the context menu.
+## Update project asset metadata
+If you have made some metadata changes in a global asset and want to update the changes to a project asset as well.
+Right-click an asset and select **Update data in the project** on the context menu.
+
+Note: Model metadata is also updated when importing an asset
