@@ -20,6 +20,7 @@ function HomepageHeader() {
             to="https://assetstore.unity.com/packages/slug/262599">
             Unity Asset Store
           </Link>
+          <span className={styles.divider} />
           <Link
             className="button button--primary button--lg"
             to="https://quickmodel.itch.io/quick-model-godot">
