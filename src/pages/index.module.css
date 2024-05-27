@@ -24,6 +24,10 @@
   justify-content: center;
 }
 
+.buttons .button {
+  margin: 0 10px;
+}
+
 .supText {
   color: grey;
   text-align: center;
