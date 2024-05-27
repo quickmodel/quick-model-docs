@@ -17,6 +17,11 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--primary button--lg"
+            to="https://assetstore.unity.com/packages/slug/262599">
+            Unity Asset Store
+          </Link>
+          <Link
+            className="button button--primary button--lg"
             to="https://quickmodel.itch.io/quick-model-godot">
             Itch.io
           </Link>
